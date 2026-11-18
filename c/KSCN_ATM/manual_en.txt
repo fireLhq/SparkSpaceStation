@@ -1,0 +1,20 @@
+Welcome to KSCN Bank ATM system. Please follow the instructions.
+Select language at startup: Press 1 for Chinese, 2 for English.
+Login requires a 9-digit account and a 6-digit numeric password.
+System exits automatically after 3 consecutive wrong passwords.
+Frozen accounts cannot log in or perform any transactions.
+Balance inquiry displays CNY, USD, and EUR accounts.
+Deposit limit: Max 20000 per time, must be multiples of 100.
+Deposit amount must be positive. Balance updates immediately.
+Withdrawal limit: Max 20000 per time, must be multiples of 100.
+Withdrawal fails if the balance in chosen currency is low.
+Transfer requires valid account and name. Self-transfer denied.
+Transfer limit: Max 5000000, allows up to 2 decimal places.
+Transfer fails if the target account is frozen.
+Forex limit: Max 20000. Paid currency calculated by rate.
+Forex fails if payment balance is low. Try another currency.
+Records and schedules appear on the right. Press any key to return.
+Apply for amounts above 20k up to 2M, or above 5M up to 100M for transfers.
+Reservation date must be today or later. Use YYYY MM DD.
+Reset pwd requires old pwd. New pwd must be 6 digits.
+Account freeze sets status to frozen and exits system.

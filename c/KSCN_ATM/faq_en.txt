@@ -1,0 +1,20 @@
+001#How can I change language?#Press 1 for Chinese or 2 for English on system startup.
+002#What is input format for login?#Account needs 9 digits and password requires 6 digits.
+003#What if I type wrong password?#Three failed login attempts or three incorrect current passwords during a reset will close the program.
+004#What to do if account is frozen?#Frozen accounts cannot log in. To restore a demo account, exit and set its status to 1 in user.txt.
+005#Which currency balances can I see?#You can check CNY, USD, and EUR balances in real time.
+006#What are the limits for deposit?#Max limit is 20000 per time, must be multiples of 100.
+007#What are limits for withdrawal?#Max limit is 20000 per time, must be multiples of 100.
+008#What info is required for transfer?#Target 9-digit account and registered name are required.
+009#Does transfer support decimals?#Yes, max limit is 5000000 with up to 2 decimal places.
+010#Can I transfer money to myself?#No, transferring to your current logged-in account is blocked.
+011#Can I transfer to frozen account?#No, system will stop trade and show target account is frozen.
+012#What are current exchange rates?#CNY rate is 1.0, USD rate is 7.20, and EUR rate is 7.80.
+013#What if payment balance is low?#System alerts low balance. You can change payment currency.
+014#What is maximum Forex limit?#Max purchase limit for target currency is 20000 per trade.
+015#How can I view transaction logs?#Select 06 Record in menu to view history on the right.
+016#When to use Big-Amount Apply?#Apply when over limits: 20k-2M for cash, 5M-100M for transfer.
+017#What is valid reservation date?#Date cannot be past. Please use YYYY MM DD format.
+018#How to cancel my reservation?#Enter 0 0 0 during date input step to cancel application.
+019#Can I cancel password reset?#Yes, type exit!! during password input to cancel anytime.
+020#What happens if I freeze account?#Confirming option 10 locks your account and exits system.
