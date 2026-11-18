@@ -1,0 +1,12 @@
+*.exe
+__pycache__/
+.venv/
+.env
+.env.*
+!.env.example
+/tools/*.local.txt
+/tools/patients.txt
+/tools/appointments.txt
+/tools/payments.txt
+/server/data/
+*.py[cod]
